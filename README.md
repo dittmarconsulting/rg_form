@@ -14,6 +14,12 @@ Launch app.
 $ npm start
 ```
 
+Test app.
+
+```bash
+$ npm test
+```
+
 Go to browser http://127.0.0.1:8080.
 
 
